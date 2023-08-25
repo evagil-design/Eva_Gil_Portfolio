@@ -95,8 +95,8 @@ nav {
 
 .positioned-diamond {
     position: absolute;
-    top: 80px;
-    right: 0px;
+    top: 120px;
+    right: -40px;
     bottom: 0px;
 }
 
@@ -157,7 +157,7 @@ nav {
 
 .positioned-discover {
     position: absolute;
-    top: 972px;
+    top: 1100px;
     right: 949px;
     bottom: 31px;
     left: 243px;
@@ -258,6 +258,10 @@ nav {
 
 .card-padding {
     padding: 34px 60px;
+}
+
+.gap-455 {
+    gap: 380px;
 }
 
 
